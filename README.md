@@ -58,10 +58,6 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+https://www.linkedin.com/in/cibi-kumar-5239b4342/
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO)
-
----
-
-⭐ Thanks for visiting my profile!# Cibikumar
+⭐ Thanks for visiting My Profile!# Cibikumar
