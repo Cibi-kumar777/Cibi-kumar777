@@ -1,63 +1,33 @@
-<h1 align="center">Hi 👋, I'm Cibi Kumar</h1>
+# B.Cibikumar Portfolio
 
-<h3 align="center">Aspiring AI Engineer | Python Developer</h3>
+A responsive personal portfolio website built with **HTML, CSS and JavaScript**.
 
----
+## Files
+- `index.html` - portfolio content
+- `style.css` - design and responsive layout
+- `script.js` - mobile menu and footer year
+- `.nojekyll` - keeps GitHub Pages deployment simple
 
-## 🚀 About Me
+## How to customize
+1. Edit `index.html`.
+2. Replace the sample project names/descriptions.
+3. Replace GitHub, LinkedIn and email links.
+4. If you want a profile photo, add it to the repository and place it in the hero section.
+5. Commit the changes.
 
-- 🎓 AI & Data Science Student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Learning Python, SQL and Web Development
-- 🌱 Currently improving my problem-solving skills
-- 📫 Email: cibikumar30@gmail.com
+## GitHub Pages
+For a user site, create a repository named:
 
----
+`YOUR-GITHUB-USERNAME.github.io`
 
-## 🛠️ Tech Stack
+Upload these files to the root of the repository, then go to:
 
-### Languages
+**Settings → Pages → Build and deployment → Source → Deploy from a branch**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Select `main` and `/ (root)` and save.
 
-### AI & Data Science
+Your site will normally be available at:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+`https://YOUR-GITHUB-USERNAME.github.io/`
 
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-https://www.linkedin.com/in/cibi-kumar-5239b4342/
-
-⭐ Thanks for visiting My Profile!# Cibikumar
+GitHub Pages can publish static HTML/CSS/JavaScript directly from a repository.
