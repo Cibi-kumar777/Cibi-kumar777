@@ -10,7 +10,7 @@
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 💻 Learning Python, SQL and Web Development
 - 🌱 Currently improving my problem-solving skills
-- 📫 Email: your-email@gmail.com
+- 📫 Email: cibikumar30@gmail.com
 
 ---
 
